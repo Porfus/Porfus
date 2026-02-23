@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Porfiri Luca
 
-I'm currently pursuing my degree in **Computer Science** (L-31) at the **University of Camerino (UniCam)**. During my academic journey, I've been developing skills in programming and software development. I'm passionate about technology and constantly looking to improve my skills.
+I'm currently pursuing my degree in **Master Computer Science** (LM-18) at the **University of Camerino (UniCam)**. During my academic journey, I've been developing skills in programming and software development. I'm passionate about technology and constantly looking to improve my skills.
 
 ## 🛠️ Skills
 
